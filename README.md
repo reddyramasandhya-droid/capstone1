@@ -26,16 +26,17 @@ I built this project as part of my BTech in AIML at Presidency University, Banga
 ## Screenshots
 
 ### Employee List
-<img width="802" height="551" alt="Image" src="https://github.com/user-attachments/assets/c47cbc71-3402-4397-b623-ed9869e7501f" />
+<img width="1913" height="1055" alt="Image" src="https://github.com/user-attachments/assets/ac87cbe5-a5fd-4dd9-b3c2-41e2acc6ff11" />
 
 ### Add Employee
-<img width="712" height="290" alt="Image" src="https://github.com/user-attachments/assets/2e609949-05f2-427f-9f2e-a7dee341bb6e" />
-
-### Login
 <img width="1143" height="490" alt="Image" src="https://github.com/user-attachments/assets/fe851ceb-a100-430f-b04e-a7ec5668fd5e" />
 
+### Login
+<img width="712" height="290" alt="Image" src="https://github.com/user-attachments/assets/2e609949-05f2-427f-9f2e-a7dee341bb6e" />
+
 ### Register
-<img width="1913" height="1055" alt="Image" src="https://github.com/user-attachments/assets/ac87cbe5-a5fd-4dd9-b3c2-41e2acc6ff11" />
+<img width="802" height="551" alt="Image" src="https://github.com/user-attachments/assets/c47cbc71-3402-4397-b623-ed9869e7501f" />
+
 
 ## Tech Stack
 
