@@ -133,7 +133,7 @@ capstone1/
    python manage.py runserver
    ```
 
-7. Open **http://127.0.0.1:8000/**, register an account, and log in.
+7. Open **http://127.0.0.1:8000/register/**, register an account, and log in.
 
 ## What I Learned
 
