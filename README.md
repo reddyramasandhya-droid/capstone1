@@ -78,7 +78,7 @@ I built this project during my **Full Stack Python Internship at CodingBrains**,
 
 ## Project Structure
 
-```
+````
 capstone1/
 ├── app/
 │   ├── templates/app/    # home, login, register, success, detail and add pages
@@ -92,7 +92,7 @@ capstone1/
 ├── manage.py
 ├── requirements.txt
 └── README.md
-```
+````
 
 ## Getting Started
 
@@ -104,38 +104,38 @@ capstone1/
 ### Installation
 
 1. **Clone the repository**
-   ```bash
+   ````bash
    git clone https://github.com/reddyramasandhya-droid/capstone1.git
    cd capstone1
-   ```
+   ````
 
 2. **Create and activate a virtual environment**
-   ```bash
+   ````bash
    python -m venv env
    source env/bin/activate      # Windows: env\Scripts\activate
-   ```
+   ````
 
 3. **Install dependencies**
-   ```bash
+   ````bash
    pip install -r requirements.txt
-   ```
+   ````
 
 4. **Set up the database**
-   ```bash
+   ````bash
    python manage.py migrate
-   ```
+   ````
 
 5. **(Optional) Create an admin user**
-   ```bash
+   ````bash
    python manage.py createsuperuser
-   ```
+   ````
 
 6. **Run the development server**
-   ```bash
+   ````bash
    python manage.py runserver
-   ```
+   ````
 
-7. Open **http://127.0.0.1:8001/register/**, register an account, and log in.
+7. Open **http://127.0.0.1:8000/register/**, register an account, and log in.
    (The server must keep running in your terminal while you use the site.)
 
 ## Deployment Notes (PythonAnywhere)
@@ -175,3 +175,9 @@ GitHub: [@reddyramasandhya-droid](https://github.com/reddyramasandhya-droid)
 ---
 
 If you found this project useful, feel free to star the repository.
+````
+````
+
+README.md`, `git commit -m "Update README"` and `git push`.
+
+I can give the capstone2 README in the same copy-paste format if you want it.
