@@ -2,6 +2,8 @@
 
 A Django web application for managing employee records, built as **Capstone Project-1**. Users can create an account, log in, browse all employees, view individual profiles, and add new employees through a validated form.
 
+> 🎓 Built as part of the **Full Stack Python Internship** at [CodingBrains](https://codingbrains.in).
+
 ![Python](https://img.shields.io/badge/Python-3-blue)
 ![Django](https://img.shields.io/badge/Django-6.1-green)
 ![Database](https://img.shields.io/badge/Database-SQLite-lightgrey)
@@ -12,7 +14,7 @@ A Django web application for managing employee records, built as **Capstone Proj
 
 ## About the Project
 
-I built this project as part of my BTech in AIML at Presidency University, Bangalore. The goal was to understand how a real web application fits together: database models, forms, authentication, URL routing, templates, and deployment. It follows Django's MVT (Model-View-Template) pattern.
+I built this project during my **Full Stack Python Internship at CodingBrains**, alongside my BTech in AIML at Presidency University, Bangalore. The goal was to understand how a real web application fits together: database models, forms, authentication, URL routing, templates, and deployment. It follows Django's MVT (Model-View-Template) pattern.
 
 ## Features
 
@@ -96,7 +98,7 @@ capstone1/
 
 ### Prerequisites
 
-- Python 3 and pip
+- Python 3.12 or newer (required by Django 6.1) and pip
 - Git
 
 ### Installation
@@ -134,6 +136,13 @@ capstone1/
    ```
 
 7. Open **http://127.0.0.1:8000/register/**, register an account, and log in.
+   (The server must keep running in your terminal while you use the site.)
+
+## Deployment Notes (PythonAnywhere)
+
+- Add your PythonAnywhere domain to `ALLOWED_HOSTS` in `project10/settings.py`.
+- The free plan may run an older Python version, so you might need a compatible Django version (for example `Django==5.2.17`) in `requirements.txt` on the server.
+- After pulling new changes, reload the web app from the **Web** tab.
 
 ## What I Learned
 
@@ -159,6 +168,7 @@ capstone1/
 
 **Somula Rama Sandhya**
 BTech AIML, Presidency University, Bangalore (2024 to 2028)
+Full Stack Python Intern, CodingBrains
 
 GitHub: [@reddyramasandhya-droid](https://github.com/reddyramasandhya-droid)
 
