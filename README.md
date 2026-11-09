@@ -135,8 +135,7 @@ capstone1/
    python manage.py runserver
    ````
 
-7. Open **http://127.0.0.1:8001/register/**, register an account, and log in.
-   (The server must keep running in your terminal while you use the site.)
+7. Open, register an account, and log in.
 
 ## Deployment Notes (PythonAnywhere)
 
